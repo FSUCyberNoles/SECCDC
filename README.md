@@ -1,1 +1,1 @@
-# SECCDC
+# SECCDC Resources
